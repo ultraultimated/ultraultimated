@@ -5,12 +5,12 @@ My name is Neel Parikh. I am currently pursuing Master's in Computer Science fro
 <img src = "https://img.shields.io/badge/OS-Linux-8bb13d?logo=Linux" alt = "OS: Linux"> <img src = "https://img.shields.io/badge/Editor-Intellij_Idea-8bb13d?logo=Intellij%20Idea">
 <img src = "https://img.shields.io/badge/Editor-PyCharm-8bb13d?logo=PyCharm"> <img src = "https://img.shields.io/badge/Language-Java-8bb13d?logo=Java"> <img src = "https://img.shields.io/badge/Language-Python-8bb13d?logo=Python"> <img src = "https://img.shields.io/badge/Language-Javascript-8bb13d?logo=Javascript"> <img src = "https://img.shields.io/badge/Framework-Spring_Boot-8bb13d?logo=Spring"> <img src = "https://img.shields.io/badge/Framework-Keras-8bb13d?logo=Keras"> <img src = "https://img.shields.io/badge/Framework-OpenCV-8bb13d?logo=Python"> <img src = "https://img.shields.io/badge/Framework-Kafka-8bb13d?logo=Apache%20Kafka"> <img src = "https://img.shields.io/badge/Infrastructure-Terraform-8bb13d?logo=Terraform"> <img src = "https://img.shields.io/badge/Cloud-AWS-8bb13d?logo=Amazon%20aws"> <img src = "https://img.shields.io/badge/Database-MySQL-8bb13d?logo=MySQL">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=StockInsight)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=GITS)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=Terraform)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=expertiza)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=savitar)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=Twitter-stream-kafka-java)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=StockInsight)](https://github.com/ultraultimated/StockInsight)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=GITS)](https://github.com/ultraultimated/GITS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=Terraform)](https://github.com/ultraultimated/Terraform)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=expertiza)](https://github.com/ultraultimated/expertiza)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=savitar)](https://github.com/ultraultimated/savitar)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=Twitter-stream-kafka-java)](https://github.com/ultraultimated/Twitter-stream-kafka-java)
 
 
 
@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Neel's github stats](https://github-readme-stats.vercel.app/api?username=ultraultimated&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Neel's github stats](https://github-readme-stats.vercel.app/api?username=ultraultimated&hide=contribs,stars)](https://github.com/ultraultimated/)
 
