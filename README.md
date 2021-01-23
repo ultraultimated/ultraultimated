@@ -8,7 +8,7 @@ My name is Neel Parikh. I am currently pursuing Master's in Computer Science fro
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=StockInsight)](https://github.com/ultraultimated/StockInsight)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=GITS)](https://github.com/ultraultimated/GITS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=Terraform)](https://github.com/ultraultimated/Terraform)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=expertiza)](https://github.com/ultraultimated/expertiza)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=expertiza)](https://github.com/expertiza/expertiza)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=savitar)](https://github.com/ultraultimated/savitar)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraultimated&repo=Twitter-stream-kafka-java)](https://github.com/ultraultimated/Twitter-stream-kafka-java)
 
